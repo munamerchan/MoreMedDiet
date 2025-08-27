@@ -1,4 +1,4 @@
-          ![logo_proyecto](https://github.com/munamerchan/MoreMedDiet/blob/main/logo_proyecto.png)
+          logo_proyecto.png
           
 
 **¡Bienvenid@!**
