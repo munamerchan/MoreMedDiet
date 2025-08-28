@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/munamerchan/MoreMedDiet/main/img/logo_proyecto.png" width=400>
+<div align="center">
+          <img src="https://raw.githubusercontent.com/munamerchan/MoreMedDiet/main/img/logo_proyecto.png" width=400>
+</div>
           
 
 **¡Bienvenid@!**
