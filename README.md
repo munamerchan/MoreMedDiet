@@ -1,4 +1,4 @@
-          logo_proyecto.png
+          !(img/logo_proyecto.png)
           
 
 **¡Bienvenid@!**
